@@ -1,5 +1,5 @@
 <?php
-dump("comment");
+// dump("comment");
     if($_SERVER["REQUEST_METHOD"] === "POST") {
 		
 		
